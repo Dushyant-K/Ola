@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052405716162",
+    "project_id": "ola-clone-78333",
+    "storage_bucket": "ola-clone-78333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052405716162:android:510b92a9fa7f30d468575b",
+        "android_client_info": {
+          "package_name": "com.example.android.ola_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052405716162-be9hvhcb8eof4k0maq2clciu1fht5ipj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEr6w_6Z68ALX9GEnsMXP5Wo725J4KItI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052405716162-be9hvhcb8eof4k0maq2clciu1fht5ipj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
