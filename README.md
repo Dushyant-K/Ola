@@ -1,2 +1,0 @@
-# Ola
-Cab Booking Application
